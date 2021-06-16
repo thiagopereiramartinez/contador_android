@@ -1,0 +1,2 @@
+rootProject.name = "Telecurso 2000"
+include ':app'
